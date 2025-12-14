@@ -17,4 +17,5 @@
 ## 🎯 Goals
 - Learn Git and GitHub
 - Build real-world projects
+_Last updated: Git exercise_
 
