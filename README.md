@@ -1,3 +1,7 @@
+## Exercise 2
+
+Updated README for Exercise 2 by Surendra.
+
 # About Me
 
 ## 👤 Personal Information
